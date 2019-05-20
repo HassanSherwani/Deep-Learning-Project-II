@@ -4,7 +4,7 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 
 # List
 
-1-Linear Regression: Using simple OLS + Gradient Descent
+1-Linear Regression: Using simple OLS + Gradient Descent<br>
 2-Building basic neural network using tensorflow
 
 # Modules
@@ -12,3 +12,6 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 pandas<br>
 numpy<br>
 sklearn<br>
+tensorflow<br>
+matplotlib<br>
+seaborn<br>
