@@ -19,7 +19,7 @@ One might wonder what is the difference in these two techniques. Please check fo
 https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0
 
 
-Modules
+# Modules
 pandas <br>
 scikit-learn<br>
 tflearn<br>
@@ -29,7 +29,7 @@ numpy<br>
 
 
 
-Datasets
+# Datasets
 Game sentiment prediction - IGN Dataset. 
 
-I have created two datasets out of main one. One has key features "text" and "sentiment". Other one (as was asked in challenge) contains "text" and "score_phrase".
+I have created two datasets out of main one. One has key features **"text" and "sentiment"**. Other dataset (as was asked in challenge) contains **"text" and "score_phrase"**.
