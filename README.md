@@ -10,6 +10,8 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 - 4- Setiment Analysis for IMDB
 - 5- word vectors from game of thrones dataset.
 - 6-Song Recommendation System by applying popularity-based, item-item collaborative filtering, and user-item collaborative filtering.
+- 7-Dimensionality Reduction concept
+- 8-Dimensionaility Reduction exampel (predicting dating match) using PCA
 
 # Modules
 
