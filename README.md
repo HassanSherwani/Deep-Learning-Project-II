@@ -12,6 +12,7 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 - 6-Song Recommendation System by applying popularity-based, item-item collaborative filtering, and user-item collaborative filtering.
 - 7-Dimensionality Reduction concept
 - 8-Dimensionaility Reduction exampel (predicting dating match) using PCA
+- 9)-Image classifer (to distinguish dogs from cats)
 
 # Modules
 
