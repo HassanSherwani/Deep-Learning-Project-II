@@ -13,6 +13,7 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 - 7-Dimensionality Reduction concept
 - 8-Dimensionaility Reduction exampel (predicting dating match) using PCA
 - 9)-Image classifer (to distinguish dogs from cats)
+- 10)-Detecting Lanes for Autonomous vehicle
 
 # Modules
 
@@ -22,3 +23,6 @@ sklearn<br>
 tensorflow<br>
 matplotlib<br>
 seaborn<br>
+opencv<br>
+keras<br>
+
