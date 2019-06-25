@@ -14,6 +14,7 @@ Thanks to Udacity Nanodegree+Siraj Raval youtube channel+All coding challenges t
 - 8-Dimensionaility Reduction exampel (predicting dating match) using PCA
 - 9)-Image classifer (to distinguish dogs from cats)
 - 10)-Detecting Lanes for Autonomous vehicle
+- 11)-Object Detection(fruits) using OpenCV
 
 # Modules
 
