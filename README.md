@@ -1,6 +1,6 @@
 # Deep-Learning-concepts
 
-Thanks to Udacity Nanodegree+Udemy Self-drive car course + Siraj Raval youtube channel+All coding challenges through which I learnt alot
+Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nanodegree+Udemy Self-drive car course + Siraj Raval youtube channel+All coding challenges through which I learnt alot
 
 # List
 
