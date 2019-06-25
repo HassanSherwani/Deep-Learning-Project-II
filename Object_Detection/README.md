@@ -10,6 +10,9 @@ numpy<br>
 math<br>
 
 # References 
+
+https://www.datacamp.com/community/tutorials/face-detection-python-opencv
+
 https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/
 
 https://github.com/mrever/CASIS-OpenCV-Course
