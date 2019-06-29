@@ -27,3 +27,9 @@
  - https://www.code-learner.com/python-speech-recognition-introduction-and-practice/
  
  - https://pypi.org/project/SpeechRecognition/
+
+- Encoder-decoder: https://arxiv.org/abs/1508.01211
+
+- RNNs with CTC loss: https://arxiv.org/abs/1412.5567
+
+- Classic speech recognition is described here:<br> http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf
