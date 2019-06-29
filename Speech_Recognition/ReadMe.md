@@ -11,7 +11,11 @@
  tensorflow
  keras
  
- References
+ # Dataset
+ 
+ We have utlized freely available Speech Commands Dataset thanks to Google’s TensorFlow and AIY teams. This contains around 65000 one-second sound files with commands like Go, Yes or Stop being our labeled features. 
+ 
+ # References
  
  - https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
  - http://dkopczyk.quantee.co.uk/speech-nn/
