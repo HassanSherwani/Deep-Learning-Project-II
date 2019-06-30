@@ -16,6 +16,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 - 10)-Detecting Lanes for Autonomous vehicle
 - 11)-Object Detection(fruits) using OpenCV
 - 12)-Speech Recognition
+- 13)-Speech Recognition using Google Web Speech API
 
 # Modules
 
