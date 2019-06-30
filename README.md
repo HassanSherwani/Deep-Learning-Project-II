@@ -15,6 +15,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 - 9)-Image classifer (to distinguish dogs from cats)
 - 10)-Detecting Lanes for Autonomous vehicle
 - 11)-Object Detection(fruits) using OpenCV
+- 12)-Speech Recognition
 
 # Modules
 
