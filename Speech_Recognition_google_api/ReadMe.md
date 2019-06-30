@@ -15,7 +15,18 @@ recognize_sphinx(): CMU Sphinx - requires installing PocketSphinx
 
 recognize_wit(): Wit.ai
 
--Reduce Effect of Noise on Speech Recognition
+- Reduce Effect of Noise on Speech Recognition
+
+# Applications
+
+ - Apply Recognizer module using Harvard Sentences. These phrases were published by the IEEE in 1965 for use in speech intelligibility testing of telephone lines. They are still used in VoIP and cellular testing today.
+ 
+ http://www.voiptroubleshooter.com/open_speech/index.html
+ 
+ - Working With Microphones using pyaudio library
+ 
+ -  Developing a guess game for number spoken through micro-phone
+
 
 # Modules
 
