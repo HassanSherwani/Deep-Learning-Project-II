@@ -20,11 +20,15 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 # Modules
 
 pandas<br>
+os <br>
+scipy<br>
+librosa<br>
 numpy<br>
 sklearn<br>
 tensorflow<br>
 matplotlib<br>
 seaborn<br>
+plotly<br>
 opencv<br>
 keras<br>
 
