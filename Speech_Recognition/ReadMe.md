@@ -13,7 +13,11 @@
  
  # Dataset
  
- We have utlized freely available Speech Commands Dataset thanks to Google’s TensorFlow and AIY teams. This contains around 65000 one-second sound files with commands like Go, Yes or Stop being our labeled features. 
+TensorFlow Speech Recognition Challenge:<br>
+Can you build an algorithm that understands simple speech commands?
+
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
+
  
  # References
  
