@@ -4,14 +4,14 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 
 # List
 
-- 1-Linear Regression: Using simple OLS + Gradient Descent<br>
-- 2-Building basic neural network using tensorflow
-- 3-Building basic neural network without any library(pure Math concepts)
-- 4- Setiment Analysis for IMDB
-- 5- word vectors from game of thrones dataset.
-- 6-Song Recommendation System by applying popularity-based, item-item collaborative filtering, and user-item collaborative filtering.
-- 7-Dimensionality Reduction concept
-- 8-Dimensionaility Reduction exampel (predicting dating match) using PCA
+- 1)-Linear Regression: Using simple OLS + Gradient Descent<br>
+- 2)-Building basic neural network using tensorflow
+- 3)-Building basic neural network without any library(pure Math concepts)
+- 4)- Setiment Analysis for IMDB
+- 5)- word vectors from game of thrones dataset.
+- 6)-Song Recommendation System by applying popularity-based, item-item collaborative filtering, and user-item collaborative filtering.
+- 7)-Dimensionality Reduction concept
+- 8)-Dimensionaility Reduction exampel (predicting dating match) using PCA
 - 9)-Image classifer (to distinguish dogs from cats)
 - 10)-Detecting Lanes for Autonomous vehicle
 - 11)-Object Detection(fruits) using OpenCV
