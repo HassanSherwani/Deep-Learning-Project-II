@@ -32,3 +32,11 @@ recognize_wit(): Wit.ai
 
 SpeechRecognition<br>
 pyaudio
+
+# References
+
+- https://realpython.com/python-speech-recognition/
+
+- https://pythonprogramminglanguage.com/speech-recognition/
+
+- https://www.code-learner.com/python-speech-recognition-introduction-and-practice/
