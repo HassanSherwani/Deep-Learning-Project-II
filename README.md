@@ -17,6 +17,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 - 11)-Object Detection(fruits) using OpenCV
 - 12)-Speech Recognition
 - 13)-Speech Recognition using Google Web Speech API
+- 14)-Predicting stock price using LSTM
 
 # Modules
 
