@@ -16,7 +16,22 @@ The Udacity provided dataset + Udacity’s self-driving car simulator
 
 pytorch, opencv,numpy
 
+# Content 
+
+- Self_Driving_Car.ipynb:contains the code for training and saving the convolution neural network. The file shows the pipeline used for training and validating the model, and it contains comments to explain how the code works.
+
+- model.py: contains the model architecture
+
+-  drive.py: a Pytorch version of Udacity’s drive.py file
+
+# Running the model
+Using the Udacity provided simulator and the drive.py file, the car can be driven autonomously around the track by executing
+
+- python drive.py model.h5
+
 # References
+
+- Bojarski, M., Del Testa, D., Dworakowski, D., Firner, B., Flepp, B., Goyal, P., ... & Zhang, X. (2016). End to end learning for self-driving cars. arXiv preprint arXiv:1604.07316.
 
 - https://github.com/llSourcell/How_to_simulate_a_self_driving_car
 
