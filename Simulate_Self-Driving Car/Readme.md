@@ -40,4 +40,8 @@ http://docs.opencv.org/2.4/index.html
 
 http://stackoverflow.com/questions/tagged/opencv
 
+- Tutorial on deep learning & self-drive vehicles
+
+https://towardsdatascience.com/deep-learning-for-self-driving-cars-7f198ef4cfa2
+
 - OpenCV on Amazon
