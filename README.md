@@ -20,6 +20,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 - 14)-Predicting stock price using LSTM
 - 15)-Wikipedia article text generation 
 - 16)- Simulating self-driving using Nvidia’s research CNN.
+- 17)- Predicting best product for agricultural sector using ML and Deep learning
 
 # Modules
 
