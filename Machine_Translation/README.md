@@ -4,4 +4,4 @@ The objective is to convert an English sentence to its German counterpart using 
 
 # Modules<br>
 
-pandas , numpy , re , sklearn , tensorflow , keras.
+pandas , string , re , sklearn , tensorflow , keras.
