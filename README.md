@@ -22,6 +22,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 - 16)- Simulating self-driving using Nvidia’s research CNN.
 - 17)- Predicting best product for agricultural sector using ML and Deep learning
 - 18)- Recommender system using content-based filtering and collaborative filtering
+- 19) Machine Translation using seq2seq model
 
 # Modules
 
