@@ -27,5 +27,7 @@ Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nano
 
 # Modules
 
-pandas ,  os , scipy , librosa , numpy , sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras , torch , nltk , spacy gensim.
+For processing: pandas ,  os ,  numpy, string, math
+For text processing: nltk , spacy , gensim
+For Machine learning: scipy, librosa , , sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras , pytorch.
 
