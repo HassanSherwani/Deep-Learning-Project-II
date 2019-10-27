@@ -1,5 +1,7 @@
 # Aim of excercise 
 
+This is classification problem.
+
  - a)-to predict the plant_id  
  - b)-to predict if the product is marketable or not
  
