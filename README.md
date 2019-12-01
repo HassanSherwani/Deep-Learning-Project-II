@@ -1,6 +1,5 @@
 # Deep-Learning-concepts
 
-Thanks to 
 
 # List
 
