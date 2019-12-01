@@ -1,6 +1,6 @@
 # Deep-Learning-concepts
 
-Thanks to my mentor Dr Jan van Dalen(Erasmus School of management)+ Udacity Nanodegree+Udemy Self-drive car course + Kaggle challenges+Siraj Raval+Knowledge centre youtube channel+All coding challenges through which I learnt alot. 
+Thanks to 
 
 # List
 
@@ -31,3 +31,6 @@ For processing: pandas ,  os ,  numpy, string. math<br>
 For text processing: nltk , spacy , gensim.<br>
 For Machine learning & Deep learning: scipy, librosa ,  sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras , pytorch.<br>
 
+# Credit
+
+Special thanks  to my mentor Dr Jan van Dalen(Erasmus School of management), Udacity Nanodegree , Udemy Self-drive car course , Kaggle challenges , Siraj Raval, sentdex, Hvass Laboratories, 3Blue1Brown, coding train, and Knowledge centre youtube channel through which I learnt alot.
