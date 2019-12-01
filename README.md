@@ -1,7 +1,7 @@
 # Deep-Learning-concepts
 
 
-# List
+# List of Projects
 
 - 1)-Linear Regression: Using simple OLS + Gradient Descent<br>
 - 2)-Building basic neural network using tensorflow
